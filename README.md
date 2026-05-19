@@ -22,3 +22,18 @@ JOIN ideed
 <img width="1097" height="441" alt="Kuvatõmmis 2026-05-19 091745" src="https://github.com/user-attachments/assets/5d759292-d303-4bcf-9e70-09c4b49f3d6d" />
 <img width="672" height="408" alt="Kuvatõmmis 2026-05-19 090942" src="https://github.com/user-attachments/assets/58ca7397-bac0-4fb3-b712-853c9deb6682" />
 <img width="1084" height="553" alt="Kuvatõmmis 2026-05-12 140142" src="https://github.com/user-attachments/assets/128553c2-b012-47b9-a627-6b54aa8fc475" />
+
+3. Raamatukogu andmebaas
+
+    Kui vastuseid on liiga palju, siis LIMIT 10 näiteks.
+    Leia kõige laenutatum raamat ja selle autor.
+    Loe kokku laenutused iga raamatu kohta, kasutades COUNT() funktsiooni.
+    Kasuta GROUP BY raamatu ID järgi, et grupeerida tulemused raamatute kaupa.
+    Kasuta alampäringut, et leida kõige populaarsem raamat.
+
+Ülesanne 18
+
+    Lae alla ja paigalda SQLiteStudio
+    Ava oma eelnevalt loodud andmebaas
+    Teosta vähemalt üks Ülesanne 17 loodud päringutest
+    Tee programmiaknast ekraanitõmmis. Näha peab olema andmebaas, tabelid, päring ja tulemus
