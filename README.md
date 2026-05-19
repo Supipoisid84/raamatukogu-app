@@ -51,3 +51,6 @@ JOIN ideed
     Ava oma eelnevalt loodud andmebaas
     Teosta vähemalt üks Ülesanne 17 loodud päringutest
     Tee programmiaknast ekraanitõmmis. Näha peab olema andmebaas, tabelid, päring ja tulemus
+    
+<img width="494" height="376" alt="Kuvatõmmis 2026-05-19 105116" src="https://github.com/user-attachments/assets/e150085b-232d-4b96-b466-b41ed1f11a2d" />
+
